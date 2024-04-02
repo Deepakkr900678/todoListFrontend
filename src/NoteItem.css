@@ -1,0 +1,18 @@
+.card-title,
+.card-text {
+  font-family: "Handlee", cursive;
+}
+.card-title {
+  font-weight: 600;
+  font-size: larger;
+}
+.card-text {
+  font-size: larger;
+}
+.text-body-secondary {
+  font-size: 14px;
+}
+.note {
+  background: url("https://media.istockphoto.com/id/1046087082/photo/yellow-paper-texture-background-fibers-grain-empty.jpg?s=612x612&w=0&k=20&c=f2Ue_D4_SJSmDJDbl6nH1ID-1wxAGfo5OqTaVEhd5Ok=");
+  box-shadow: 0 0 28px -1px rgba(237, 197, 0, 0.68);
+}
